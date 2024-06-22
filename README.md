@@ -13,7 +13,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/campusx-official/movie-recommender-system-tmdb-dataset.git
+git clone 
 cd movie-recommender-system-tmdb-dataset
 Run the Recommender System:
 
